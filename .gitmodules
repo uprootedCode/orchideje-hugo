@@ -1,3 +1,7 @@
 [submodule "orchidsite/themes/contrast-hugo"]
 	path = orchidsite/themes/contrast-hugo
 	url = https://github.com/niklasbuschmann/contrast-hugo.git
+[submodule "orchidsite/public"]
+	path = orchidsite/public
+	url = https://github.com/uprootedCode/orchideje.git
+	branch = main
