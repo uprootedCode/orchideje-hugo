@@ -1,0 +1,3 @@
+[submodule "orchidsite/themes/contrast-hugo"]
+	path = orchidsite/themes/contrast-hugo
+	url = https://github.com/niklasbuschmann/contrast-hugo.git

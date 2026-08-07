@@ -1,0 +1,4 @@
+baseURL = 'https://uprootedCode.github.io/orchideje/'
+languageCode = 'cs_CZ'
+title = 'Orchideje Českého středohoří'
+theme = 'contrast-hugo'
