@@ -5,3 +5,6 @@
 	path = orchidsite/public
 	url = https://github.com/uprootedCode/orchideje.git
 	branch = main
+[submodule "orchidsite/themes/hugo-theme-nightfall"]
+	path = orchidsite/themes/hugo-theme-nightfall
+	url = https://github.com/LordMathis/hugo-theme-nightfall
