@@ -2,3 +2,27 @@ baseURL = 'https://uprootedCode.github.io/orchideje/'
 languageCode = 'cs_CZ'
 title = 'Orchideje Českého středohoří'
 theme = 'hugo-theme-nightfall'
+
+[menu]
+  [[menu.header]]
+    name = "Litoměřice"
+    url = "/litomerice/"
+    weight = 1
+
+  [[menu.header]]
+    name = "Ústí n. L."
+    url = "/ustinl/"
+    weight = 2
+
+  [[menu.header]]
+    name = "Louny"
+    url = "/louny/"
+    weight = 3
+
+      [[menu.header]]
+    name = "Seznam druhů"
+    url = "/seznam_druhu/"
+    weight = 4
+
+    [params]
+  customCSS = ["css/custom.css"]

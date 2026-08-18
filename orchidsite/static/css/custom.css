@@ -1,0 +1,5 @@
+.header nav a {
+  padding: 1px;
+  font-size: 0.9rem;
+  white-space: nowrap; /* Prevents individual link text from breaking into two lines */
+}
