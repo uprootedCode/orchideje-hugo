@@ -24,5 +24,7 @@ theme = 'hugo-theme-nightfall'
     url = "/seznam_druhu/"
     weight = 4
 
-    [params]
+[params]
   customCSS = ["css/custom.css"]
+  sajtna = "Orchideje"
+  title = "Orchideje Českého středohoří"
